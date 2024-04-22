@@ -3,7 +3,7 @@
         "target": "ES2018",
         "module": "commonjs",
         "strict": true,
-        "esModuleInterop": true, // Habilita o uso de importações default para módulos CommonJS
+        "esModuleInterop": true,
         "skipLibCheck": true,
         "forceConsistentCasingInFileNames": true,
         "baseUrl": ".",
