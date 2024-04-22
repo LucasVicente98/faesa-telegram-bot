@@ -57,5 +57,3 @@ Este é um bot do Telegram desenvolvido como projeto para a disciplina de Desenv
 - **Contato**: [LinkedIn](https://www.linkedin.com/in/lucas-leite-vicente-136568207/)
 
 ---
-
-**Observação**: Este bot foi desenvolvido como exemplo e pode ser personalizado para atender a diferentes necessidades.
