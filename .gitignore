@@ -1,5 +1,7 @@
 # Arquivos e pastas a serem ignorados pelo Git
 
+index.js
+
 node_modules/
 
 .env
