@@ -34,7 +34,7 @@ Este é um bot do Telegram desenvolvido como projeto para a disciplina de Desenv
    ```
    
 3. Configure as variáveis de ambiente:
-   - Crie um arquivo `.env` na raiz do projeto com o seguinte conteúdo:
+   Crie um arquivo `.env` na raiz do projeto com o seguinte conteúdo:
      ```plaintext
      TELEGRAM_TOKEN=seu_token_aqui
      DATABASE_URL=file:./dev.db
