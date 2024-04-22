@@ -1,0 +1,9 @@
+# Arquivos e pastas a serem ignorados pelo Git
+
+node_modules/
+
+.env
+
+logs/
+
+*.tmp
